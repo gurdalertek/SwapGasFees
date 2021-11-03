@@ -23,9 +23,11 @@ The proposed SwapGasFees app is not implemented during the period of [UniCode Co
 
 [Uniswap](https://uniswap.org) is the by far most popular decentralized exchange in the world, enabling swaps (exchanges) of many different tokens and coins on the Ethereum layer 1 blockchain network.
 
-One of the fundamental issues in swaps is the "swap gas fee", which is in a way the fee paid to the blockchain network for evaluating and recording a swap transaction. The swap gas fees, or in short, swap fees, can change significantly over time, depending on the congestion of the Ethereum network, level of liquidity, trade volume, and many other factors. 
+One of the fundamental issues in swaps is the "swap gas fee", which is in a way the fee paid to the blockchain network for evaluating and recording a swap transaction. The swap gas fees, or in short, swap fees, can change significantly over time, depending on the congestion of the Ethereum network, level of liquidity, trade volume, and many other factors. Swap fees strongly depend on the gas fees of the Ethereum blockchain, which are explained in [this tutorial.](https://hackernoon.com/ethereum-gas-fees-for-dummies-oj8135nn)
 
-Since the swap gas fees vary over time continuously, and sometimes significantly, it is important to have an analytics tool that can provide insights on how the gas fees are changing over time. While there exist some websites/apps that show the Ethereum gas fees, to the author's best knowledge, there does _not_ exist a website/app that shows swap gas fees for the Unicode ecosystem. This project involves the design and communication of such an analytics app.
+Since the swap gas fees vary over time continuously, and sometimes significantly, it is important to have an analytics tool that can provide insights on how the gas fees are changing over time. 
+
+While there exist some websites/apps that report/visualize the Ethereum gas fees, to the author's best knowledge, there does _not_ exist a website/app that shows swap gas fees for the Unicode ecosystem. This project involves the design and communication of such an analytics app, as a first Dapp of its kind.
 
 ## Design Principles
 
@@ -120,6 +122,10 @@ The following are sample code for the visualizations presented throughout the Sw
 - For the **backend**, the above data extraction tools can be tested, and the one that provides the fastest and most reliable results can be selected.
 - For the **frontend**, the easiest thing to do would be to fork the Uniswap front-end code and do modifications on that. 
 - For **visualizations**, as mentioned earlier, the most suitable library is thought to be [D3.js](https://d3js.org/). The [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) at [Observable HQ](https://observablehq.com/@d3/) provides sample source codes for all the essential charts, that can be used in the SwapGasFees app.
+
+## Similar Work
+As mentioned earlier, there exist websites/apps that report/visualize the Ethereum gas fees. Some notable ones are the following:
+- 
 
 ## Author
 
