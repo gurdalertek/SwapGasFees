@@ -28,8 +28,25 @@ The proposed SwapGasFees app is not implemented during the period of [UniCode Co
 ## **Slide 4:** Selecting a Swap Pair from Top `Pools` from Under `Pools` Tab
 
 
-## **Slide 5:** Visualizing Swap Fees for the Selected Top Pair
+## **Slide 5:** Selecting a Swap Pair with Default Amount of 1 ETH
 
+
+## **Slide 6:** Visualizing Swap Fees for the Selected Top Pair
+
+
+## **Slide 7:** Timeline Visualization under `Chart` Tab
+
+
+## **Slide 8:** Bubble Chart Visualization under `Chart` Tab
+
+
+## **Slide 9:** Arc Diagram Visualization under `Chart` Tab
+
+
+## **Slide 10:** Animated Scatter Plot under `Chart` Tab
+
+
+## **Slide 11:** Chord Diagram under `Chart` Tab
 
 
 Swap Gas Fees
