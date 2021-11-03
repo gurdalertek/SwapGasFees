@@ -16,7 +16,7 @@ This tutorial descibes the working of the proposed SwapGasFees app, **an analyti
 
 The proposed SwapGasFees app is not implemented during the period of [UniCode Competition 2021](https://unicode.ethglobal.com/), due to lack of time and difficulties in finding team members. Yet, it outlines a blue print of how such a system can be implemented over an extended time period. In other words, the design provides a template, through which such a dashboard can be coded.
 
-The following sections describe 
+The following sections describe the working of the proposed app, through different screens.  
 
 ## **Slide 1:** Opening Screen, `Swap Fee`Tab, and Options
 
