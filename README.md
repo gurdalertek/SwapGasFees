@@ -10,7 +10,7 @@ _Member of [BlockBlockData](https://blockblockdata.com) Team; Associate Professo
 <hline>
 </hline>
 
-## Abstract
+## Executive Summary
   
 This project proposes design of **an analytics dashboard to** interactively and dynamically **display swap gas fees** (swap fees) on [Uniswap](https://uniswap.org). The dashboard also displays other charts that give analytical insights into the Uniswap ecosystem. 
 
