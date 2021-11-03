@@ -33,7 +33,14 @@ https://medium.com/coinmonks/get-uniswap-data-using-the-graph-79d0c6f7b9f2
 
 ## UI Design 
 
-This section describes the design of the user interface (UI) for the proposed SwapGasFees app.
+This section describes the basic design of the user interface (UI) for the proposed SwapGasFees app. The detailed design and the details of how the app will work will be added as a separate tutorial later. 
+
+There are two main screens in the app:
+
+- Analytics for gas fees for a selected swap pair  (under the `Swap`, `Pools`, and `Favorites` tabs) 
+- Analytics for gas fees and Uniswap pools, in general (under the `Charts` tab)
+
+
 
 ## Visualizations
 
