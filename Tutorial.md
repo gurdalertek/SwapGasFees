@@ -97,7 +97,7 @@ The next visualization under the `Charts` tab is the stacked area chart, which d
 4. The four dimensions of an attribute are reflected on the x axis, y axis, size of the circles (glyphs), and the color of the circles. Time is the fifth dimension.
 5. In the design developed specifically for Uniswap, each swap pair is an entity, represented as a circle. 
 6. x axis denotes the TVL and the y axis denotes volume. 
-7. The Volume/TVL ratio, which is a measure of the _"turnover"_ of the pair on Uniswap, is chosen to be denoted by the size of the circle. Low values of this ratio can identify pairs that have too much liquidity compared to volume.
+7. The (Volume/TVL) ratio, which is a measure of the _"turnover"_ of the pair on Uniswap, is chosen to be denoted by the size of the circle. Low values of this ratio can identify pairs that have too much liquidity compared to volume.
 8. Finally, color is used to denote the particular swap pair. (The visualization presented below is only representative, but not exactly reflective).
 9. When the scatter plot is animated over time, the circles move, expand and contract, shift regions as groups on the two-dimensional plane, and do many other fascinating things.
 ![](./figures/SwapGasFees_Design_10.png)
