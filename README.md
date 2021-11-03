@@ -20,12 +20,8 @@ One of the fundamental issues in swaps is the "swap gas fee", which is in a way 
 The following libraries can be used for data extraction from Uniswap:
 
 - The most **important** link is the [Uniswap v3 contract maps](https://j1mmy.fi), which document the Pool Contract, Factory Contract, and Position Manager.
-https://j1mmy.fi 
-
 - [BitQuery](https://graphql.bitquery.io/ide) (to query data from blockchains)
-
 - [Flipside Crypto](https://app.flipsidecrypto.com) (to query data from blockchains)
-
 - [GraphQL](https://medium.com/coinmonks/get-uniswap-data-using-the-graph-79d0c6f7b9f2) (to extract data from Uniswap)
 
 ## UI Design 
