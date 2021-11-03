@@ -16,6 +16,8 @@ This project proposes design of **an analytics dashboard to** interactively and 
 
 The proposed SwapGasFees app is not implemented during the period of [UniCode Competition 2021](https://unicode.ethglobal.com/), due to lack of time and difficulties in finding team members. Yet, it outlines a blue print of how such a system can be implemented over an extended time period. In other words, the design provides a template, through which such a dashboard can be coded.
 
+This detailed [tutorial](Tutorial.md) describes the working of the designed app, explaining step by step, the different screens of the app.
+
 ## Uniswap and Swap Fees
 
 [Uniswap](https://uniswap.org) is the by far most popular decentralized exchange in the world, enabling swaps (exchanges) of many different tokens and coins on the Ethereum layer 1 blockchain network.
@@ -24,7 +26,6 @@ One of the fundamental issues in swaps is the "swap gas fee", which is in a way 
 
 Since the swap gas fees vary over time continuously, and sometimes significantly, it is important to have an analytics tool that can provide insights on how the gas fees are changing over time. While there exist some websites/apps that show the Ethereum gas fees, to the author's best knowledge, there does _not_ exist a website/app that shows swap gas fees for the Unicode ecosystem. This project involves the design and communication of such an analytics app.
 
-This detailed [tutorial](Tutorial.nd) describes the working of the app, explaining step by step, every designed screen.
 
 ## Design Principles
 
@@ -40,7 +41,7 @@ The following resources/libraries can be used for data extraction from Uniswap:
 
 ## UI Design 
 
-This section describes the basic design of the user interface (UI) for the proposed SwapGasFees app. The detailed design and the details of how the app will work will be added as a separate tutorial later. The full UI design can be downloaded as a pdf file from [here](./figures/SwapGasFees_Design.pdf).
+This section describes the basic design of the user interface (UI) for the proposed SwapGasFees app. This detailed [tutorial](Tutorial.md) describes the working of the designed app, explaining step by step, the different screens of the app. The full UI design can be downloaded as a pdf file from [here](./figures/SwapGasFees_Design.pdf).
 
 There are two main screens/interfaces in the app:
 
