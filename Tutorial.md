@@ -108,7 +108,7 @@ After the `Show Swap Fees` button is clicked, the app extracts data from a datab
 ## Screen 11: Chord Diagram 
 1. The last visualization under the `Charts` tabs, designed to be available, is the chord diagram. 
 2. This diagram displays the changes of liquidity across assets. Specifically, it displays what portion of liquidity of an asset has moved to another asset in a given time period, such as a week.
-3. Chord diagram is a suitable visualization technique to identify "churn", which is the switching across different entities (across different assets, in this case).
+3. Chord diagram is a suitable visualization technique to identify _"churn"_, which is the switching across different entities (across different assets, in this case).
 4. Sample source code for implementing this visualization can be found as ["Chord Diagram"](https://observablehq.com/@d3/chord-diagram).
 ![](./figures/SwapGasFees_Design_11.png)
 
@@ -120,3 +120,5 @@ After the `Show Swap Fees` button is clicked, the app extracts data from a datab
     <td><b>Gürdal Ertek</b> is an Associate Professor at UAE University (UAEU), Al Ain, UAE. He received his Ph.D. from Georgia Institute of Technology, Atlanta, GA, in 2001. Dr. Ertek served in educational and research organizations in Turkey, USA, Singapore, Kuwait and UAE, as well as an on-site reviewer for 50+ industrial R&D projects. His research and teaching areas include applied data science, business analytics, supply chain management, project management, and R&D management. His earlier hackathon in the Ethereum ecosystem was the <a href="https://ethereum.org/en/eth2/get-involved/medalla-data-challenge/" target="_blank">"Medalla Data Challenge,"</a> where Dr. Ertek was the only participant from academia. <a href="https://blockblockdata.github.io/medalla-data-challenge/" target="_blank">Joint work</a> of teammate <a href="https://www.linkedin.com/in/josephkholodenko/" target="_blank">Joseph Kholodenko</a> and <a href="https://ertekprojects.com/about-dr-gurdal-ertek/" target="_blank">Gurdal Ertek</a>, as <a href="https://blockblockdata.com" target="_blank">BlockBlockData Team</a>, was awarded with <a href="https://blog.ethereum.org/2020/11/17/medalla-data-challenge-results/" target="_blank">Bronze Medal</a>. Dr. Ertek's research and other work can be accessed through <a href="http://ertekprojects.com" target="_blank">ErtekProjects.com</a>  </td>
   </tr>
 </table>
+
+## [Read the Main Article](README.md)
