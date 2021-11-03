@@ -1,4 +1,4 @@
-# Design of SwapGasFees: an analytics dashboard for Uniswap gas fees
+# Design of SwapGasFees: an Analytics Dashboard for Uniswap Gas Fees
 
 **Gurdal Ertek**
 
