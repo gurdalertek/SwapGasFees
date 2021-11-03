@@ -107,4 +107,12 @@ https://observablehq.com/@d3/sankey
 - For **visualizations**, as mentioned earlier, the most suitable library is thought to be [D3.js](https://d3js.org/). The [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) at [Observable HQ](https://observablehq.com/@d3/) provides source codes for all the essential charts, that can be used in the SwapGasFees app.
 
 
+## Author
+
+<table>
+  <tr>
+    <td width=150px><a href="https://www.linkedin.com/in/gurdalertek/" target="_blank"><img src="figures/gurdal-ertek.png" alt="Gurdal Ertek"></a></td>
+    <td><b>Gürdal Ertek</b> is an Associate Professor at UAE University (UAEU), Al Ain, UAE. He received his Ph.D. from Georgia Institute of Technology, Atlanta, GA, in 2001. Dr. Ertek served in educational and research organizations in Turkey, USA, Singapore, Kuwait and UAE, as well as an on-site reviewer for 50+ industrial R&D projects. His research and teaching areas include applied data science, business analytics, supply chain management, project management, and R&D management. His earlier hackathon in the Ethereum ecosystem was the ["Medalla Data Challenge,"](https://ethereum.org/en/eth2/get-involved/medalla-data-challenge/) where Dr. Ertek was the only participant from academia, and [joint work with teammate Joseph Kholodenko](https://blockblockdata.github.io/medalla-data-challenge/), as [BlockBlockData Team](https://blockblockdata.com), was awarded with [Bronze Medal](https://blog.ethereum.org/2020/11/17/medalla-data-challenge-results/). Dr. Ertek's research and other work can be accessed through <a href="http://ertekprojects.com" target="_blank">ErtekProjects.com</a>  </td>
+  </tr>
+</table>
 
