@@ -19,7 +19,6 @@ The proposed SwapGasFees app is not implemented during the period of [UniCode Co
 The following sections describe the working of the proposed app, through different screens.  
 
 ## **Screen 1:** Opening Screen, `Swap Fee` Tab, and Options
-
 1. The first opening screen of the app is the `Swap Fee` Tab, with the tabs, swap pair selection on the left, and `Options` button at the left bottom. 
 2. The simple design orients the user to the interface, avoiding any chance of overwhelming. 
 The interface, as can easily be noticed by those familiar with [Uniswap](https://uniswap.com), directly mimics the Uniswap interface. This enables a mental resonance in the user's cognition, that this app is indeed related to Uniswap. 
@@ -60,11 +59,11 @@ Once the swap amount is specified, `Show Swap Fees` button appears, in the same 
 ![](./figures/SwapGasFees_Design_04.png)
 
 ## **Screen 5:** Selecting a Swap Pair with Default Amount of 1 ETH
-
+When a specific pair is selected from the available list of top pools, that pool is highlighted with the Uniswap magenta, and the `Show Swap Fees` button finally appears.
 ![](./figures/SwapGasFees_Design_05.png)
 
 ## **Screen 6:** Visualizing Swap Fees for the Selected Top Pair
-
+After the `Show Swap Fees` button is clicked, the app extracts data from a database populated apriori, and displays two the same two visualizations as in the `Swap Fees` tab. However, as mentioned earlier, the fees here will be for a swap worth 1 ETH.. 
 ![](./figures/SwapGasFees_Design_06.png)
 
 ## **Screen 7: (Interface 2) ** Timeline Visualization under `Chart` Tab
