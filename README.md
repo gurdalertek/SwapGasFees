@@ -67,8 +67,7 @@ Now let us look into both of these interfaces, and explain each.
 ## Visualizations
 
 The main library to be used for visualizations is selected as [D3.js](https://d3js.org):
-- D3 Visualization Gallery (JavaScript library for manipulating documents based on data)
-https://observablehq.com/@d3/gallery
+- [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) (JavaScript library for manipulating documents based on data)
 
 The following are sample code for the visualizations presented throughout the SwapGasFees app:
 
