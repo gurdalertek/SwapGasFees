@@ -67,7 +67,7 @@ When a specific pair is selected from the available list of top pools, that pool
 After the `Show Swap Fees` button is clicked, the app extracts data from a database populated apriori, and displays two the same two visualizations as in the `Swap Fees` tab. However, as mentioned earlier, the fees here will be for a swap worth 1 ETH.. 
 ![](./figures/SwapGasFees_Design_06.png)
 
-## Screen 7: (Interface 2) ** Timeline Visualization under `Charts` Tab
+## Screen 7: (Interface 2) Timeline Visualization under `Charts` Tab
 1. The second main function of the SwapGasFees app is the display of various charts, under the `Charts` tab, to enable a deeper understanding of the Uniswap ecosystem.
 2. The `Charts` tab implements a different interface than the earlier three tabs: There is a display (possibly with a legend) and two navigation buttons, namely `Previous Chart` and `Next Chart`. This interface design again is targeted to minimize the cognitive load on the user, allowing the user to digest the reported results one at a time.
 3. The first screen has the `Previous Chart` button disabled, yet still in display, to provide a hint of what is to come.
