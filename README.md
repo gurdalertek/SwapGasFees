@@ -1,8 +1,8 @@
 # SwapGasFees: Design of an Analytics Dashboard for Gas Fees on Uniswap 
 
-**[Gurdal Ertek](httsp://ertekprojects.com)**
-Member of [BlockBlockData](httsp://blockblockdata.com) Team
-Associate Professor, UAE University, Abu Dhabi, UAE
+[Gurdal Ertek](httsp://ertekprojects.com)
+
+Member of [BlockBlockData](httsp://blockblockdata.com) Team; Associate Professor of Business Analytics, UAE University, Abu Dhabi, UAE
 
 This project proposes design of **an analytics dashboard to** interactively and dynamically **display swap gas fees** (swap fees) on [Uniswap](https://uniswap.org). The dashboard also displays other charts that give analytical insights into the Uniswap ecosystem. 
 
