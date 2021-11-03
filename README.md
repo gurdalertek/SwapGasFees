@@ -24,6 +24,8 @@ One of the fundamental issues in swaps is the "swap gas fee", which is in a way 
 
 Since the swap gas fees vary over time continuously, and sometimes significantly, it is important to have an analytics tool that can provide insights on how the gas fees are changing over time. While there exist some websites/apps that show the Ethereum gas fees, to the author's best knowledge, there does _not_ exist a website/app that shows swap gas fees for the Unicode ecosystem. This project involves the design and communication of such an analytics app.
 
+This detailed [tutorial](Tutorial.nd) describes the working of the app, explaining step by step, every designed screen.
+
 ## Design Principles
 
 
