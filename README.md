@@ -5,7 +5,7 @@
 
 **[Gurdal Ertek](https://ertekprojects.com)**
 
-_Member of [BlockBlockData](https://blockblockdata.com) Team; Associate Professor of Business Analytics, UAE University, Abu Dhabi, UAE_
+_Member of [BlockBlockData](https://blockblockdata.com) Team; Associate Professor of Business Analytics, [UAE University](https://cbe.uaeu.ac.ae/en/departments/analytics/profile.shtml?email=gurdal@uaeu.ac.ae), Abu Dhabi, UAE_
 
 <hline>
 </hline>
