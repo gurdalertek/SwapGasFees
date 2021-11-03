@@ -40,11 +40,11 @@ This section describes the design of the user interface (UI) for the proposed Sw
 
 ## Suggested Technology Stack
 
-For the backend, the above data extraction tools can be tested, and the one that provides the fastest and most reliable results can be selected.
+* For the **backend**, the above data extraction tools can be tested, and the one that provides the fastest and most reliable results can be selected.
 
-For the frontend, the easiest thing to do would be to fork the Uniswap front-end code and do modifications on that. 
+* For the **frontend**, the easiest thing to do would be to fork the Uniswap front-end code and do modifications on that. 
 
-For visualizations, as mentioned earlier, the most suitable library is thought to be [D3.js](https://d3js.org/). The [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) at [Observable HQ](https://observablehq.com/@d3/) provides source codes for all the essential charts, that can be used in the SwapGasFees app.
+* For **visualizations**, as mentioned earlier, the most suitable library is thought to be [D3.js](https://d3js.org/). The [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) at [Observable HQ](https://observablehq.com/@d3/) provides source codes for all the essential charts, that can be used in the SwapGasFees app.
 
 
 
