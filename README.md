@@ -42,31 +42,44 @@ There are two main screens/interfaces in the app:
 
 Now let us look into both of these interfaces, and explain each.
 
+
 - **Interface 1:** Swap Gas Fees
 ![](./figures/SwapGasFees_Design_03.png)
-- ...
-- ...
-
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
 
 - **Interface 2:** Uniswap Analytics
 ![](./figures/SwapGasFees_Design_07.png)
-- ...
-- ...
-
-
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
 
 ## Visualizations
 
-- VISUALIZATION FOR FIRST THREE TABS
-
--- D3 Visualization Gallery (JavaScript library for manipulating documents based on data)
+The main library to be used for visualizations is selected as [D3.js](https://d3js.org):
+- D3 Visualization Gallery (JavaScript library for manipulating documents based on data)
 https://observablehq.com/@d3/gallery
 
--- Calendar (for slides 2-6)
-https://observablehq.com/@d3/calendar
-
--- Timeline (for slides 2-6) 
-https://observablehq.com/@mbostock/the-impact-of-vaccines
+<ul>
+  <li>Visualizations for the first three tabs</li>
+      <ul>
+        <li>Timeline (for slides 2-6) 
+https://observablehq.com/@mbostock/the-impact-of-vaccines</li>
+        <li>Calendar (for slides 2-6)
+https://observablehq.com/@d3/calendar</li>
+      </ul> 
+  <li>Visualizations for the Charts tab</li>
+      <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+      </ul> 
+</ul> 
 
 - CHARTS TAB
 
