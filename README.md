@@ -104,7 +104,7 @@ The following are sample code for the visualizations presented throughout the Sw
       <ul>
         <li><a href="https://observablehq.com/@tezzutezzu/world-history-timeline" target="_blank">Timeline</a> (for Screen 7) (to see which are the cheapest hours or the day/week for each swap pair, where pairs are the rows, color is the gas fee)</li>
         <li><a href="https://observablehq.com/@d3/bubble-chart" target="_blank">Bubble chart</a> (for Screen 8) (showing volumes of all pairs, or coins in pools, size is volume, color can be volume/liquidity, red color tones if above median)</li>
-        <li><a href="https://observablehq.com/@d3/arc-diagram" target="_blank">Arc diagram</a> (for Screen 9) (to see the pairs in the pools, color shows the main coin, such as ETH, USDT, USDC, DAI)</li>
+        <li><a href="https://observablehq.com/@d3/streamgraph" target="_blank">Stacked Area Chart</a> (to see changes in volume and liquidity, color is pair)</li>
         <li><a href="https://observablehq.com/@mbostock/the-wealth-health-of-nations" target="_blank">Animated scatter plot</a> (for Screen 10) (to see changes in multiple dimensions, as an animation)</li>
         <li><a href="https://observablehq.com/@d3/chord-diagram" target="_blank">Chord diagram</a> (for Screen 11) (to see volume & liquidity changes in pools, and in coins)</li>
       </ul> 
@@ -112,8 +112,8 @@ The following are sample code for the visualizations presented throughout the Sw
       <ul>
         <li><a href="https://observablehq.com/@d3/realtime-horizon-chart" target="_blank">Realtime Horizon Chart</a> (scrolling data, where time is x axis, pair is y axis, and color is the gas fee)</li>
         <li><a href="https://observablehq.com/@d3/treemap" target="_blank">Treemap</a> (showing volumes of all pairs)</li>
-        <li><a href="https://observablehq.com/@d3/streamgraph" target="_blank">Stacked Area Chart</a> (to see changes in volume and liquidity, color is pair)</li>
         <li><a href="https://observablehq.com/@d3/sankey" target="_blank">Sankey Diagram</a> (changes in volume of pairs, color shows pair)</li>
+        <li><a href="https://observablehq.com/@d3/arc-diagram" target="_blank">Arc diagram</a> (for Screen 9) (to see the pairs in the pools, color shows the main coin, such as ETH, USDT, USDC, DAI)</li>
   </ul> 
 </ul> 
 
