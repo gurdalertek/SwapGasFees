@@ -1,6 +1,8 @@
 # SwapGasFees: Design of an Analytics Dashboard for Gas Fees on Uniswap 
 
-**Gurdal Ertek**, BlockBlockData Team
+**[Gurdal Ertek](httsp://ertekprojects.com)**
+Member of [BlockBlockData](httsp://blockblockdata.com) Team
+Associate Professor, UAE University, Abu Dhabi, UAE
 
 This project proposes design of **an analytics dashboard to** interactively and dynamically **display swap gas fees** (swap fees) on [Uniswap](https://uniswap.org). The dashboard also displays other charts that give analytical insights into the Uniswap ecosystem. 
 
@@ -26,7 +28,7 @@ The following libraries can be used for data extraction from Uniswap:
 
 ## UI Design 
 
-This section describes the basic design of the user interface (UI) for the proposed SwapGasFees app. The detailed design and the details of how the app will work will be added as a separate tutorial later. 
+This section describes the basic design of the user interface (UI) for the proposed SwapGasFees app. The detailed design and the details of how the app will work will be added as a separate tutorial later. The full UI design can be downloaded as a pdf file from [here](./figures/SwapGasFees_Design.pdf).
 
 There are two main screens/interfaces in the app:
 
