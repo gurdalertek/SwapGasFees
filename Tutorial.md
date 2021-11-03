@@ -18,7 +18,7 @@ The proposed SwapGasFees app is not implemented during the period of [UniCode Co
 
 The following sections describe the working of the proposed app, through different screens.  
 
-## **Screen 1:** Opening Screen, `Swap Fee` Tab, and Options
+## Screen 1: Opening Screen, `Swap Fee` Tab, and Options
 1. The first opening screen of the app is the `Swap Fee` Tab, with the tabs, swap pair selection on the left, and `Options` button at the left bottom. 
 2. The simple design orients the user to the interface, avoiding any chance of overwhelming. 
 The interface, as can easily be noticed by those familiar with [Uniswap](https://uniswap.com), directly mimics the Uniswap interface. This enables a mental resonance in the user's cognition, that this app is indeed related to Uniswap. 
@@ -32,11 +32,11 @@ The interface, as can easily be noticed by those familiar with [Uniswap](https:/
 10. `Options` are first day of the week, email address as input, and the selected color scheme.
 ![](./figures/SwapGasFees_Design_01.png)
 
-## **Screen 2:** Selecting a Swap Pair and the Amount
+## Screen 2: Selecting a Swap Pair and the Amount
 Once the swap amount is specified, `Show Swap Fees` button appears, in the same magenta tone as the original Uniswap swap button.
 ![](./figures/SwapGasFees_Design_02.png)
 
-## **Screen 3:** (Interface 1) Visualizing Swap Fees for the Selected Pair
+## Screen 3: (Interface 1) Visualizing Swap Fees for the Selected Pair
 1. After the `Show Swap Fees` button is clicked, the app extracts data from a database populated apriori, and displays two visualizations. 
 2. The first visualization, on the upper right, is the swap gas fee for the selected fee, `by Hour` of the day. 
 3. In the `by Hour` visualization, there are four rows, corresponding to the swap fees for `today`, `yesterday`, `this week`, and `this month`.
@@ -49,7 +49,7 @@ Once the swap amount is specified, `Show Swap Fees` button appears, in the same 
 10. Using the two visualizations, a user can visually grasp whether now is a good time to swap or not.
 ![](./figures/SwapGasFees_Design_03.png)
 
-## **Screen 4:** Selecting a Swap Pair from Top `Pools` from Under `Pools` Tab
+## Screen 4: Selecting a Swap Pair from Top `Pools` from Under `Pools` Tab
 1. The next available tab is the `Pools` tab. 
 2. When the `Pools` tab is clicked, the top pools in Uniswap are displayed on the left hand side of the screen. 
 3. As in the opening screen, this screen also begins very simple, making sure not to crowd the screen, unless a specific selection is made.
@@ -58,31 +58,31 @@ Once the swap amount is specified, `Show Swap Fees` button appears, in the same 
 6. It is worth noting that there is no action button active at the moment. Instead, there is a message that prompts `Please select a pair (for 1 ETH worth of swap)`. This makes it clear that the swap fees to be displayed will be for a swap with 1 ETH worth. In other words, there is no specification of amount here, to make the interface cognitively manageable.
 ![](./figures/SwapGasFees_Design_04.png)
 
-## **Screen 5:** Selecting a Swap Pair with Default Amount of 1 ETH
+## Screen 5: Selecting a Swap Pair with Default Amount of 1 ETH
 When a specific pair is selected from the available list of top pools, that pool is highlighted with the Uniswap magenta, and the `Show Swap Fees` button finally appears.
 ![](./figures/SwapGasFees_Design_05.png)
 
-## **Screen 6:** Visualizing Swap Fees for the Selected Top Pair
+## Screen 6: Visualizing Swap Fees for the Selected Top Pair
 After the `Show Swap Fees` button is clicked, the app extracts data from a database populated apriori, and displays two the same two visualizations as in the `Swap Fees` tab. However, as mentioned earlier, the fees here will be for a swap worth 1 ETH.. 
 ![](./figures/SwapGasFees_Design_06.png)
 
-## **Screen 7: (Interface 2) ** Timeline Visualization under `Chart` Tab
+## Screen 7: (Interface 2) ** Timeline Visualization under `Chart` Tab
 
 ![](./figures/SwapGasFees_Design_07.png)
 
-## **Screen 8:** Bubble Chart Visualization 
+## Screen 8: Bubble Chart Visualization 
 
 ![](./figures/SwapGasFees_Design_08.png)
 
-## **Screen 9:** Arc Diagram Visualization 
+## Screen 9: Arc Diagram Visualization 
 
 ![](./figures/SwapGasFees_Design_09.png)
 
-## **Screen 10:** Animated Scatter 
+## Screen 10: Animated Scatter 
 
 ![](./figures/SwapGasFees_Design_10.png)
 
-## **Screen 11:** Chord Diagram 
+## Screen 11: Chord Diagram 
 
 ![](./figures/SwapGasFees_Design_11.png)
 
