@@ -43,16 +43,13 @@ There are two main screens/interfaces in the app:
 Now let us look into both of these interfaces, and explain each.
 
 - **Interface 1:** Swap Gas Fees
-
 ![](./figures/SwapGasFees_Design_03.png)
+- ...
+- ...
 
-- ...
-- ...
 
 - **Interface 2:** Uniswap Analytics
-
 ![](./figures/SwapGasFees_Design_07.png)
-
 - ...
 - ...
 
@@ -60,45 +57,46 @@ Now let us look into both of these interfaces, and explain each.
 
 ## Visualizations
 
-***** VISUALIZATION FOR FIRST THREE TABS
+- VISUALIZATION FOR FIRST THREE TABS
 
-* D3 Visualization Gallery (JavaScript library for manipulating documents based on data)
+-- D3 Visualization Gallery (JavaScript library for manipulating documents based on data)
 https://observablehq.com/@d3/gallery
 
-* Calendar (for slides 2-6)
+-- Calendar (for slides 2-6)
 https://observablehq.com/@d3/calendar
 
-* Timeline (for slides 2-6) 
+-- Timeline (for slides 2-6) 
 https://observablehq.com/@mbostock/the-impact-of-vaccines
 
-***** CHARTS TAB
+- CHARTS TAB
 
-* Timeline (for slide 7) (to see which are the cheapest hours or the day/week for each swap pair, where pairs are the rows, color is the gas fee)
+-- Timeline (for slide 7) (to see which are the cheapest hours or the day/week for each swap pair, where pairs are the rows, color is the gas fee)
 https://observablehq.com/@tezzutezzu/world-history-timeline
 
-* Bubble chart (for slide 8) (showing volumes of all pairs, or coins in pools, size is volume, color can be volume/liquidity, red color tones if above median)
+-- Bubble chart (for slide 8) (showing volumes of all pairs, or coins in pools, size is volume, color can be volume/liquidity, red color tones if above median)
 https://observablehq.com/@d3/bubble-chart
 
-* Arc diagram (for slide 9) (to see the pairs in the pools, color shows the main coin, such as ETH, USDT, USDC, DAI)
+-- Arc diagram (for slide 9) (to see the pairs in the pools, color shows the main coin, such as ETH, USDT, USDC, DAI)
 https://observablehq.com/@d3/arc-diagram
 
-* Animated scatter plot (for slide 10) (to see changes in multiple dimensions, as an animation)
+-- Animated scatter plot (for slide 10) (to see changes in multiple dimensions, as an animation)
 https://observablehq.com/@mbostock/the-wealth-health-of-nations
 
-* Chord diagram (for slide 11) (to see volume & liquidity changes in pools, and in coins)
+-- Chord diagram (for slide 11) (to see volume & liquidity changes in pools, and in coins)
 https://observablehq.com/@d3/chord-diagram
 
-***** OTHER POSSIBLE CHARTS
+- OTHER POSSIBLE CHARTS
 
-* Realtime Horizon Chart (scrolling data, where time is x axis, pair is y axis, and color is the gas fee)
+-- Realtime Horizon Chart (scrolling data, where time is x axis, pair is y axis, and color is the gas fee)
 https://observablehq.com/@d3/realtime-horizon-chart
 
-* Treemap (showing volumes of all pairs)
+-- Treemap (showing volumes of all pairs)
 https://observablehq.com/@d3/treemap
 
-* Stacked Area Chart (to see changes in volume and liquidity, color is pair)
+-- Stacked Area Chart (to see changes in volume and liquidity, color is pair)
 https://observablehq.com/@d3/streamgraph
-* Sankey Diagram (changes in volume of pairs, color shows pair)
+
+-- Sankey Diagram (changes in volume of pairs, color shows pair)
 https://observablehq.com/@d3/sankey
 
 
