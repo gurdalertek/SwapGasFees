@@ -32,6 +32,10 @@ Since the swap gas fees vary over time continuously, and sometimes significantly
 When designing the user interface, the [Gestalt Principles](https://www.interaction-design.org/literature/topics/gestalt-principles) of School of [M. Wertheimer (Wertheimer, 2020)](https://link.springer.com/book/10.1007/978-3-030-36063-4) and the knowledge visualization guidelines of [Eppler and Burkhard (2008)](https://www.igi-global.com/chapter/knowledge-visualization/25136) were applied. 
 
 For selecting the visualizations, the [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) available under [ObservableHQ](https://observablehq.com/) were scanned and the following guideline documents were used as reference:
+- [From Data to Viz](https://www.data-to-viz.com/)
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/search.html)
+- [Visual Vocabulary](https://public.tableau.com/views/VisualVocabulary/VisualVocabulary?:showVizHome=no)
+- [Power BI Visuals Reference](https://www.sqlbi.com/ref/power-bi-visuals-reference/) 
  
 ## Data Extraction
 
