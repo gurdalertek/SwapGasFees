@@ -51,7 +51,11 @@ Once the swap amount is specified, `Show Swap Fees` button appears, in the same 
 ![](./figures/SwapGasFees_Design_03.png)
 
 ## **Screen 4:** Selecting a Swap Pair from Top `Pools` from Under `Pools` Tab
-
+1. The next available tab is the `Pools` tab. 
+2. When the `Pools` tab is clicked, the top pools in Uniswap are displayed on the left hand side of the screen. 
+3. As in the opening screen, this screen also begins very simple, making sure not to crowd the screen, unless a specific selection is made.
+4. Top liquidity pools, in the same order as `Top pools` under Uniswap's `Pools`tab, and their pairs are displayed together with the total value locked (TVL).
+5. From the list of pools, favorite pools can be added to the list of `Favorites` by clicking the gray heart next to it and turning it into red. The reverse action removes that pair from the list of `Favorites`.
 ![](./figures/SwapGasFees_Design_04.png)
 
 ## **Screen 5:** Selecting a Swap Pair with Default Amount of 1 ETH
