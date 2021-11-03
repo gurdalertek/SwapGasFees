@@ -73,16 +73,16 @@ https://observablehq.com/@d3/gallery
 <ul>
   <li>Visualizations for the <b>first three tabs</b></li>
       <ul>
-        <li><a href="https://observablehq.com/@mbostock/the-impact-of-vaccines" target="_blank">Timeline</a> (for slides 2-6)</li>
-        <li><a href="https://observablehq.com/@d3/calendars" target="_blank">Calendar</a> (for slides 2-6)</li>
+        <li><a href="https://observablehq.com/@mbostock/the-impact-of-vaccines" target="_blank">Timeline</a> (for Screens 2-6)</li>
+        <li><a href="https://observablehq.com/@d3/calendars" target="_blank">Calendar</a> (for Screens 2-6)</li>
       </ul> 
   <li>Visualizations for the <b>Charts tab</b></li>
       <ul>
-        <li><a href="https://observablehq.com/@tezzutezzu/world-history-timeline" target="_blank">Timeline</a> (for slide 7) (to see which are the cheapest hours or the day/week for each swap pair, where pairs are the rows, color is the gas fee)</li>
-        <li><a href="https://observablehq.com/@d3/bubble-chart" target="_blank">Bubble chart</a> (for slide 8) (showing volumes of all pairs, or coins in pools, size is volume, color can be volume/liquidity, red color tones if above median)</li>
-        <li><a href="https://observablehq.com/@d3/arc-diagram" target="_blank">Arc diagram</a> (for slide 9) (to see the pairs in the pools, color shows the main coin, such as ETH, USDT, USDC, DAI)</li>
-        <li><a href="https://observablehq.com/@mbostock/the-wealth-health-of-nations" target="_blank">Animated scatter plot</a> (for slide 10) (to see changes in multiple dimensions, as an animation)</li>
-        <li><a href="https://observablehq.com/@d3/chord-diagram" target="_blank">Chord diagram</a> (for slide 11) (to see volume & liquidity changes in pools, and in coins)</li>
+        <li><a href="https://observablehq.com/@tezzutezzu/world-history-timeline" target="_blank">Timeline</a> (for Screen 7) (to see which are the cheapest hours or the day/week for each swap pair, where pairs are the rows, color is the gas fee)</li>
+        <li><a href="https://observablehq.com/@d3/bubble-chart" target="_blank">Bubble chart</a> (for Screen 8) (showing volumes of all pairs, or coins in pools, size is volume, color can be volume/liquidity, red color tones if above median)</li>
+        <li><a href="https://observablehq.com/@d3/arc-diagram" target="_blank">Arc diagram</a> (for Screen 9) (to see the pairs in the pools, color shows the main coin, such as ETH, USDT, USDC, DAI)</li>
+        <li><a href="https://observablehq.com/@mbostock/the-wealth-health-of-nations" target="_blank">Animated scatter plot</a> (for Screen 10) (to see changes in multiple dimensions, as an animation)</li>
+        <li><a href="https://observablehq.com/@d3/chord-diagram" target="_blank">Chord diagram</a> (for Screen 11) (to see volume & liquidity changes in pools, and in coins)</li>
       </ul> 
   <li><b>Other</b> possible visualizations under <b>Charts</b></li>
       <ul>
