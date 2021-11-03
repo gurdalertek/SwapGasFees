@@ -18,7 +18,7 @@ The proposed SwapGasFees app is not implemented during the period of [UniCode Co
 
 The following sections describe the working of the proposed app, through different screens.  
 
-## **Slide 1:** Opening Screen, `Swap Fee` Tab, and Options
+## **Screen 1:** Opening Screen, `Swap Fee` Tab, and Options
 
 1. The first opening screen of the app is the `Swap Fee` Tab, with the tabs, swap pair selection on the left, and `Options` button at the left bottom. 
 2. The simple design orients the user to the interface, avoiding any chance of overwhelming. 
@@ -33,11 +33,11 @@ The interface, as can easily be noticed by those familiar with [Uniswap](https:/
 10. `Options` are first day of the week, email address as input, and the selected color scheme.
 ![](./figures/SwapGasFees_Design_01.png)
 
-## **Slide 2:** Selecting a Swap Pair and the Amount
+## **Screen 2:** Selecting a Swap Pair and the Amount
 Once the swap amount is specified, `Show Swap Fees` button appears, in the same magenta tone as the original Uniswap swap button.
 ![](./figures/SwapGasFees_Design_02.png)
 
-## **Slide 3:** (Interface 1) Visualizing Swap Fees for the Selected Pair
+## **Screen 3:** (Interface 1) Visualizing Swap Fees for the Selected Pair
 1. After the `Show Swap Fees` button is clicked, the app extracts data from a database populated apriori, and displays two visualizations. 
 2. The first visualization, on the upper right, is the swap gas fee for the selected fee, `by Hour` of the day. 
 3. In the `by Hour` visualization, there are four rows, corresponding to the swap fees for `today`, `yesterday`, `this week`, and `this month`.
@@ -50,35 +50,35 @@ Once the swap amount is specified, `Show Swap Fees` button appears, in the same 
 10. Using the two visualizations, a user can visually grasp whether now is a good time to swap or not.
 ![](./figures/SwapGasFees_Design_03.png)
 
-## **Slide 4:** Selecting a Swap Pair from Top `Pools` from Under `Pools` Tab
+## **Screen 4:** Selecting a Swap Pair from Top `Pools` from Under `Pools` Tab
 
 ![](./figures/SwapGasFees_Design_04.png)
 
-## **Slide 5:** Selecting a Swap Pair with Default Amount of 1 ETH
+## **Screen 5:** Selecting a Swap Pair with Default Amount of 1 ETH
 
 ![](./figures/SwapGasFees_Design_05.png)
 
-## **Slide 6:** Visualizing Swap Fees for the Selected Top Pair
+## **Screen 6:** Visualizing Swap Fees for the Selected Top Pair
 
 ![](./figures/SwapGasFees_Design_06.png)
 
-## **Slide 7: (Interface 2) ** Timeline Visualization under `Chart` Tab
+## **Screen 7: (Interface 2) ** Timeline Visualization under `Chart` Tab
 
 ![](./figures/SwapGasFees_Design_07.png)
 
-## **Slide 8:** Bubble Chart Visualization 
+## **Screen 8:** Bubble Chart Visualization 
 
 ![](./figures/SwapGasFees_Design_08.png)
 
-## **Slide 9:** Arc Diagram Visualization 
+## **Screen 9:** Arc Diagram Visualization 
 
 ![](./figures/SwapGasFees_Design_09.png)
 
-## **Slide 10:** Animated Scatter 
+## **Screen 10:** Animated Scatter 
 
 ![](./figures/SwapGasFees_Design_10.png)
 
-## **Slide 11:** Chord Diagram 
+## **Screen 11:** Chord Diagram 
 
 ![](./figures/SwapGasFees_Design_11.png)
 
