@@ -27,18 +27,24 @@ The interface, as can easily be noticed by those familiar with [Uniswap](https:/
 4. There are four tabs, namely, `Swap Fees`, `Pools`, `Favorites`, and `Charts`. 
 5. Swap pair is selected on the left hand side from the drop-down menus, just as in Uniswap.
 6. It is possible to add a pair as a favorite, through clicking the gray heart and turning it into red.
-7. All favorite pairs are made available under the `Favorite` tab.
+7. All favorite pairs are made available under the `Favorites` tab.
 8. Until the swap amount is selected, the swap button is not activated.
 9. The `Options` in the lower left corner can be seen through clicking the triangle. It will disappear when the triangle is pressed again.
 10. `Options` are first day of the week, email address as input, and the selected color scheme.
 ![](./figures/SwapGasFees_Design_01.png)
 
 ## **Slide 2:** Selecting a Swap Pair and the Amount
-
+Once the swap amount is specified, `Show Swap Fees` button appears, in the same magenta tone as the original Uniswap swap button.
 ![](./figures/SwapGasFees_Design_02.png)
 
 ## **Slide 3:** (Interface 1) Visualizing Swap Fees for the Selected Pair
-
+After the `Show Swap Fees` button is clicked, the app extracts data from a database populated apriori, and displays two visualizations. 
+The first visualization, on the upper right, is the swap gas fee for the selected fee, `by Hour` of the day. 
+In the `by Hour` visualization, there are four rows, corresponding to the swap fees for `today`, `yesterday`, `this week`, and `this month`.
+The black rectangle with the thick border shows the current time of the day.
+The legend on the right hand side displays the fees with respect to the color scale.
+The important text are shown in bold, including the text for `today`, current time, and fees for the current time and benchmark time points. 
+The second visualization is on the lower right hand side, displaying swap gas fees `by Day`. 
 ![](./figures/SwapGasFees_Design_03.png)
 
 ## **Slide 4:** Selecting a Swap Pair from Top `Pools` from Under `Pools` Tab
