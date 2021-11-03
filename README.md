@@ -73,7 +73,7 @@ Now let us look into both of these interfaces, and explain each.
 8. The `by Day` visualization again displays the gas fees, but based on day of the year and month, enabling benchmark with previous months of the same year and the similar days of the past year.
 9. In both visualizations, the unrealized future time periods are shown as blank (white color).
 10. Using the two visualizations, a user can visually grasp whether now is a good time to swap or not.
-11. Sample source code for implementing the first visualization can be found as [Timeline visualization](https://observablehq.com/@tezzutezzu/world-history-timeline). Sample source code for the second visualization can be found as [Calendar visualization](https://observablehq.com/@d3/calendars), both under the [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
+11. Sample source code for implementing the first visualization can be found as ["World History Timeline"](https://observablehq.com/@tezzutezzu/world-history-timeline). Sample source code for the second calendar visualization can be found as ["Calendars"](https://observablehq.com/@d3/calendars), both under the [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
 ![](./figures/SwapGasFees_Design_03.png)
 
 ## Interface 2: Uniswap Analytics
@@ -84,8 +84,9 @@ Now let us look into both of these interfaces, and explain each.
 5. The visualization shows time on the x axis and top pairs on the y axis (as rows). 
 6. Each bar displays the favorable times for each swap pair. There has to be a consistent rule for all pairs, to identify the best times, such as _"Select the times where the price is at the lower 30% quartile"_.
 7. While the presented visualization shows bars as a single color, each bar can potentially be drawn to allow a color spectrum.
-8. Sample source code for implementing this visualization can be found as [Timeline visualization](https://observablehq.com/@tezzutezzu/world-history-timeline), under [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
+8. Sample source code for implementing this visualization can be found as ["World timeline visualization"](https://observablehq.com/@tezzutezzu/world-history-timeline), under [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
 ![](./figures/SwapGasFees_Design_07.png)
+
 
 ## Visualizations
 
