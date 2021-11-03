@@ -6,6 +6,6 @@
 5. Sample source code for implementing this visualization can be found as ["Circle Packing - Bubble chart"](https://observablehq.com/@d3/bubble-chart), under [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
 ![](./figures/SwapGasFees_Design_08_new.png)
 
-[Screen 1](Screen01.md) | [Screen 2](Screen02.md) | [Screen 3](Screen03.md) | [Screen 4](Screen04.md) | [Screen 5](Screen05.md) | [Screen 6](Screen06.md) | **[Screen 7](Screen07.md) | Screen 8 | [Screen 9](Screen09.md) **| [Screen 10](Screen10.md) | [Screen 11](Screen11.md) 
+[Screen 1](Screen01.md) | [Screen 2](Screen02.md) | [Screen 3](Screen03.md) | [Screen 4](Screen04.md) | [Screen 5](Screen05.md) | [Screen 6](Screen06.md) | **[Screen 7](Screen07.md) | Screen 8 | [Screen 9](Screen09.md)** | [Screen 10](Screen10.md) | [Screen 11](Screen11.md) 
 
 [Main Article](../README.md) | [Complete Tutorial](../Tutorial.md) 
