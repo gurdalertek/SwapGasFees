@@ -27,10 +27,12 @@ One of the fundamental issues in swaps is the "swap gas fee", which is in a way 
 
 Since the swap gas fees vary over time continuously, and sometimes significantly, it is important to have an analytics tool that can provide insights on how the gas fees are changing over time. While there exist some websites/apps that show the Ethereum gas fees, to the author's best knowledge, there does _not_ exist a website/app that shows swap gas fees for the Unicode ecosystem. This project involves the design and communication of such an analytics app.
 
-
 ## Design Principles
 
+When designing the user interface, the [Gestalt Principles](https://www.interaction-design.org/literature/topics/gestalt-principles) of School of [M. Wertheimer (Wertheimer, 2020)](https://link.springer.com/book/10.1007/978-3-030-36063-4) and the knowledge visualization guidelines of [Eppler and Burkhard (2008)](https://www.igi-global.com/chapter/knowledge-visualization/25136) were applied. 
 
+For selecting the visualizations, the [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) available under [ObservableHQ](https://observablehq.com/) were scanned and the following guideline documents were used as reference:
+ 
 ## Data Extraction
 
 The following resources/libraries can be used for data extraction from Uniswap:
@@ -79,7 +81,6 @@ Now let us look into both of these interfaces, and explain each.
 8. Sample source code for implementing this visualization can be found as [Timeline visualization](https://observablehq.com/@tezzutezzu/world-history-timeline), under [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
 ![](./figures/SwapGasFees_Design_07.png)
 
-
 ## Visualizations
 
 The main library to be used for visualizations is selected as [D3.js](https://d3js.org):
@@ -110,13 +111,11 @@ The following are sample code for the visualizations presented throughout the Sw
   </ul> 
 </ul> 
 
-
 ## Suggested Technology Stack
 
 - For the **backend**, the above data extraction tools can be tested, and the one that provides the fastest and most reliable results can be selected.
 - For the **frontend**, the easiest thing to do would be to fork the Uniswap front-end code and do modifications on that. 
 - For **visualizations**, as mentioned earlier, the most suitable library is thought to be [D3.js](https://d3js.org/). The [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) at [Observable HQ](https://observablehq.com/@d3/) provides sample source codes for all the essential charts, that can be used in the SwapGasFees app.
-
 
 ## Author
 
