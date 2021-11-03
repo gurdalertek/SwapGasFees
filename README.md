@@ -1,8 +1,8 @@
 # SwapGasFees: Design of an Analytics Dashboard for Gas Fees on Uniswap 
 
-**Gurdal Ertek**
+**Gurdal Ertek**, BlockBlockData Team
 
-This project proposes design of an analytics dashboard to interactively and dynamically display swap fees on [Uniswap](https://uniswap.org) and other analytics charts. 
+This project proposes design of **an analytics dashboard to** interactively and dynamically **display swap gas fees** (swap fees) on [Uniswap](https://uniswap.org). The dashboard also displays other charts that give analytical insights into the Uniswap ecosystem. 
 
 The proposed SwapGasFees app is not implemented during the period of [UniCode Competition 2021](https://unicode.ethglobal.com/), due to lack of time and difficulties in finding team members. Yet, it outlines a blue print of how such a system can be implemented over an extended time period. In other words, the design provides a template, through which such a dashboard can be coded.
 
@@ -39,17 +39,17 @@ Now let us look into both of these interfaces, and explain each.
 ## **Interface 1:** Swap Gas Fees
 ![](./figures/SwapGasFees_Design_03.png)
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
 </ul> 
 
 ## **Interface 2:** Uniswap Analytics
 ![](./figures/SwapGasFees_Design_07.png)
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
 </ul> 
 
 ## Visualizations
