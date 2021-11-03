@@ -3,7 +3,7 @@
 <hline>
 </hline>
 
-## [Gurdal Ertek](https://ertekprojects.com)**
+**[Gurdal Ertek](https://ertekprojects.com)**
 
 _Member of [BlockBlockData](https://blockblockdata.com) Team; Associate Professor of Business Analytics, UAE University, Abu Dhabi, UAE_
 
