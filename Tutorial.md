@@ -37,16 +37,16 @@ The proposed SwapGasFees app is not implemented during the period of [UniCode Co
 ## **Slide 7:** Timeline Visualization under `Chart` Tab
 
 
-## **Slide 8:** Bubble Chart Visualization under `Chart` Tab
+## **Slide 8:** Bubble Chart Visualization 
 
 
-## **Slide 9:** Arc Diagram Visualization under `Chart` Tab
+## **Slide 9:** Arc Diagram Visualization 
 
 
-## **Slide 10:** Animated Scatter Plot under `Chart` Tab
+## **Slide 10:** Animated Scatter 
 
 
-## **Slide 11:** Chord Diagram under `Chart` Tab
+## **Slide 11:** Chord Diagram 
 
 
 Swap Gas Fees
