@@ -123,7 +123,7 @@ The following are sample code for the visualizations presented throughout the Sw
 - For the **frontend**, the easiest thing to do would be to fork the Uniswap front-end code and do modifications on that. 
 - For **visualizations**, as mentioned earlier, the most suitable library is thought to be [D3.js](https://d3js.org/). The [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) at [Observable HQ](https://observablehq.com/@d3/) provides sample source codes for all the essential charts, that can be used in the SwapGasFees app.
 
-## Similar Work
+## Related Work
 
 As mentioned earlier, there exist websites/apps that report/visualize the Ethereum gas fees. Some notable ones are the following:
 - [Crypto.com DeFi Dashboard - Gas Fees:](https://crypto.com/defi/dashboard/gas-fees) This online service is most related to our proposed app, as it displays not only the Ethereum gas fees but also the gas fees for different swap pairs.
