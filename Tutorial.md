@@ -47,7 +47,7 @@ Once the swap amount is specified, `Show Swap Fees` button appears, in the same 
 8. The `by Day` visualization again displays the gas fees, but based on day of the year and month, enabling benchmark with previous months of the same year and the similar days of the past year.
 9. In both visualizations, the unrealized future time periods are shown as blank (white color).
 10. Using the two visualizations, a user can visually grasp whether now is a good time to swap or not.
-11. Sample source code for implementing the first visualization can be found as [Timeline visualization](https://observablehq.com/@tezzutezzu/world-history-timeline). Sample source code for the second visualization can be found as [Calendar visualization](https://observablehq.com/@d3/calendars), both under the [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
+11. Sample source code for implementing the first visualization can be found as ["World History Timeline"](https://observablehq.com/@tezzutezzu/world-history-timeline). Sample source code for the second calendar visualization can be found as ["Calendars"](https://observablehq.com/@d3/calendars), both under the [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
 ![](./figures/SwapGasFees_Design_03.png)
 
 ## Screen 4: Selecting a Swap Pair from Top `Pools` from Under `Pools` Tab
@@ -75,7 +75,7 @@ After the `Show Swap Fees` button is clicked, the app extracts data from a datab
 5. The visualization shows time on the x axis and top pairs on the y axis (as rows). 
 6. Each bar displays the favorable times for each swap pair. There has to be a consistent rule for all pairs, to identify the best times, such as _"Select the times where the price is at the lower 30% quartile"_.
 7. While the presented visualization shows bars as a single color, each bar can potentially be drawn to allow a color spectrum.
-8. Sample source code for implementing this visualization can be found as [Timeline visualization](https://observablehq.com/@tezzutezzu/world-history-timeline), under [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
+8. Sample source code for implementing this visualization can be found as ["World timeline visualization"](https://observablehq.com/@tezzutezzu/world-history-timeline), under [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
 ![](./figures/SwapGasFees_Design_07.png)
 
 ## Screen 8: Bubble Chart  
@@ -83,11 +83,13 @@ After the `Show Swap Fees` button is clicked, the app extracts data from a datab
 2. Each circle represents a pool in the top pools list and the size of each circle denotes the total value locked (TVL) in that pool.
 3. Color of each circle shows the ratio (Weekly Volume)/TVL. This is a measure of _"turnover"_ of the pool. Higher values (darker colors) suggest that the pool is actively used, whereas light colors suggest that the pool is not actively used.
 4. The legend on the right had side maps the color scale to the actual swap values of the mentioned ratio.
-5. Sample source code for implementing this visualization can be found as [Bubble chart](https://observablehq.com/@d3/bubble-chart), under [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
+5. Sample source code for implementing this visualization can be found as ["Circle Packing - Bubble chart"](https://observablehq.com/@d3/bubble-chart), under [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
 ![](./figures/SwapGasFees_Design_08_new.png)
 
 ## Screen 9: Stacked Area Chart 
-The next visualization under the `Charts` tab is the stacked area chart, which displays the total value locked (TVL) in top pools over time, as well as the total TVL for these pools. This chart is particularly beneficial to see thre trends in the liquidity for a particular pool or for Uniswap pools on the aggregate.
+1. The next visualization under the `Charts` tab is the stacked area chart, which displays the total value locked (TVL) in top pools over time, as well as the total TVL for these pools. 
+2. This chart is particularly beneficial to see thre trends in the liquidity for a particular pool or for Uniswap pools on the aggregate.
+3. Sample source code for implementing this visualization can be found as ["Stacked Area chart - Streamgraph"](https://observablehq.com/@d3/streamgraph).
 ![](./figures/SwapGasFees_Design_09.png)
 
 ## Screen 10: Animated Scatter Plot
@@ -100,13 +102,15 @@ The next visualization under the `Charts` tab is the stacked area chart, which d
 7. The (Volume/TVL) ratio, which is a measure of the _"turnover"_ of the pair on Uniswap, is chosen to be denoted by the size of the circle. Low values of this ratio can identify pairs that have too much liquidity compared to volume.
 8. Finally, color is used to denote the particular swap pair. (The visualization presented below is only representative, but not exactly reflective).
 9. When the scatter plot is animated over time, the circles move, expand and contract, shift regions as groups on the two-dimensional plane, and do many other fascinating things.
+10. Sample source code for implementing this visualization can be found as ["The Wealth & Health of Nations"](https://observablehq.com/@mbostock/the-wealth-health-of-nations).
 ![](./figures/SwapGasFees_Design_10.png)
 
 ## Screen 11: Chord Diagram 
-
+1. The last visualization under the `Charts` tabs, designed to be available, is the chord diagram. 
+2. This diagram displays the changes of liquidity across assets. Specifically, it displays what portion of liquidity of an asset has moved to another asset in a given time period, such as a week.
+3. Chord diagram is a suitable visualization technique to identify "churn", which is the switching across different entities (across different assets, in this case).
+4. Sample source code for implementing this visualization can be found as ["Chord Diagram"](https://observablehq.com/@d3/chord-diagram).
 ![](./figures/SwapGasFees_Design_11.png)
-
-
 
 ## Author
 
