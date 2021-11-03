@@ -58,11 +58,6 @@ Now let us look into both of these interfaces, and explain each.
 
 
 
-
-**Interface 2:** Uniswap Analytics
-
-
-
 ## Visualizations
 
 
