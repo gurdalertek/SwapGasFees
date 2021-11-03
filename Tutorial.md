@@ -38,13 +38,16 @@ Once the swap amount is specified, `Show Swap Fees` button appears, in the same 
 ![](./figures/SwapGasFees_Design_02.png)
 
 ## **Slide 3:** (Interface 1) Visualizing Swap Fees for the Selected Pair
-After the `Show Swap Fees` button is clicked, the app extracts data from a database populated apriori, and displays two visualizations. 
-The first visualization, on the upper right, is the swap gas fee for the selected fee, `by Hour` of the day. 
-In the `by Hour` visualization, there are four rows, corresponding to the swap fees for `today`, `yesterday`, `this week`, and `this month`.
-The black rectangle with the thick border shows the current time of the day.
-The legend on the right hand side displays the fees with respect to the color scale.
-The important text are shown in bold, including the text for `today`, current time, and fees for the current time and benchmark time points. 
-The second visualization is on the lower right hand side, displaying swap gas fees `by Day`. 
+1. After the `Show Swap Fees` button is clicked, the app extracts data from a database populated apriori, and displays two visualizations. 
+2. The first visualization, on the upper right, is the swap gas fee for the selected fee, `by Hour` of the day. 
+3. In the `by Hour` visualization, there are four rows, corresponding to the swap fees for `today`, `yesterday`, `this week`, and `this month`.
+4. The black rectangle with the thick border shows the current time of the day.
+5. The legend on the right hand side displays the fees with respect to the color scale.
+6. The important text are shown in bold, including the text for `today`, current time, and fees for the current time and benchmark time points. 
+7. The second visualization is on the lower right hand side, displaying swap gas fees `by Day`. 
+8. The `by Day` visualization again displays the gas fees, but based on day of the year and month, enabling benchmark with previous months of the same year and the similar days of the past year.
+9. In both visualizations, the unrealized future time periods are shown as blank (white color).
+10. Using the two visualizations, a user can visually grasp whether now is a good time to swap or not.
 ![](./figures/SwapGasFees_Design_03.png)
 
 ## **Slide 4:** Selecting a Swap Pair from Top `Pools` from Under `Pools` Tab
