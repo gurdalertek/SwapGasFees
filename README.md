@@ -42,7 +42,21 @@ There are two main screens/interfaces in the app:
 
 Now let us look into both of these interfaces, and explain each.
 
-**Interface 1:** Swap Gas Fees
+- **Interface 1:** Swap Gas Fees
+
+![](./figures/SwapGasFees_Design_03.png)
+
+- ...
+- ...
+
+- **Interface 2:** Uniswap Analytics
+
+![](./figures/SwapGasFees_Design_07.png)
+
+- ...
+- ...
+
+
 
 
 **Interface 2:** Uniswap Analytics
