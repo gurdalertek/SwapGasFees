@@ -19,16 +19,16 @@ One of the fundamental issues in swaps is the "swap gas fee", which is in a way 
 
 The following libraries can be used for data extraction from Uniswap:
 
-* Probably the most **important** link is the [Uniswap v3 contract maps](https://j1mmy.fi), which document the Pool Contract, Factory Contract, and Position Manager.
+- The most **important** link is the [Uniswap v3 contract maps](https://j1mmy.fi), which document the Pool Contract, Factory Contract, and Position Manager.
 https://j1mmy.fi 
 
-* [BitQuery](https://graphql.bitquery.io/ide) (to query data from blockchains)
+- [BitQuery](https://graphql.bitquery.io/ide) (to query data from blockchains)
 https://graphql.bitquery.io/ide
 
-* [Flipside Crypto](https://app.flipsidecrypto.com) (to query data from blockchains)
+- [Flipside Crypto](https://app.flipsidecrypto.com) (to query data from blockchains)
 https://app.flipsidecrypto.com
 
-* [GraphQL](https://medium.com/coinmonks/get-uniswap-data-using-the-graph-79d0c6f7b9f2) (to extract data from Uniswap)
+- [GraphQL](https://medium.com/coinmonks/get-uniswap-data-using-the-graph-79d0c6f7b9f2) (to extract data from Uniswap)
 https://medium.com/coinmonks/get-uniswap-data-using-the-graph-79d0c6f7b9f2
 
 ## UI Design 
@@ -60,14 +60,53 @@ Now let us look into both of these interfaces, and explain each.
 
 ## Visualizations
 
+***** VISUALIZATION FOR FIRST THREE TABS
+
+* D3 Visualization Gallery (JavaScript library for manipulating documents based on data)
+https://observablehq.com/@d3/gallery
+
+* Calendar (for slides 2-6)
+https://observablehq.com/@d3/calendar
+
+* Timeline (for slides 2-6) 
+https://observablehq.com/@mbostock/the-impact-of-vaccines
+
+***** CHARTS TAB
+
+* Timeline (for slide 7) (to see which are the cheapest hours or the day/week for each swap pair, where pairs are the rows, color is the gas fee)
+https://observablehq.com/@tezzutezzu/world-history-timeline
+
+* Bubble chart (for slide 8) (showing volumes of all pairs, or coins in pools, size is volume, color can be volume/liquidity, red color tones if above median)
+https://observablehq.com/@d3/bubble-chart
+
+* Arc diagram (for slide 9) (to see the pairs in the pools, color shows the main coin, such as ETH, USDT, USDC, DAI)
+https://observablehq.com/@d3/arc-diagram
+
+* Animated scatter plot (for slide 10) (to see changes in multiple dimensions, as an animation)
+https://observablehq.com/@mbostock/the-wealth-health-of-nations
+
+* Chord diagram (for slide 11) (to see volume & liquidity changes in pools, and in coins)
+https://observablehq.com/@d3/chord-diagram
+
+***** OTHER POSSIBLE CHARTS
+
+* Realtime Horizon Chart (scrolling data, where time is x axis, pair is y axis, and color is the gas fee)
+https://observablehq.com/@d3/realtime-horizon-chart
+
+* Treemap (showing volumes of all pairs)
+https://observablehq.com/@d3/treemap
+
+* Stacked Area Chart (to see changes in volume and liquidity, color is pair)
+https://observablehq.com/@d3/streamgraph
+* Sankey Diagram (changes in volume of pairs, color shows pair)
+https://observablehq.com/@d3/sankey
+
 
 ## Suggested Technology Stack
 
-* For the **backend**, the above data extraction tools can be tested, and the one that provides the fastest and most reliable results can be selected.
-
-* For the **frontend**, the easiest thing to do would be to fork the Uniswap front-end code and do modifications on that. 
-
-* For **visualizations**, as mentioned earlier, the most suitable library is thought to be [D3.js](https://d3js.org/). The [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) at [Observable HQ](https://observablehq.com/@d3/) provides source codes for all the essential charts, that can be used in the SwapGasFees app.
+- For the **backend**, the above data extraction tools can be tested, and the one that provides the fastest and most reliable results can be selected.
+- For the **frontend**, the easiest thing to do would be to fork the Uniswap front-end code and do modifications on that. 
+- For **visualizations**, as mentioned earlier, the most suitable library is thought to be [D3.js](https://d3js.org/). The [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) at [Observable HQ](https://observablehq.com/@d3/) provides source codes for all the essential charts, that can be used in the SwapGasFees app.
 
 
 
