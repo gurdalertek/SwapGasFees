@@ -23,13 +23,10 @@ The following libraries can be used for data extraction from Uniswap:
 https://j1mmy.fi 
 
 - [BitQuery](https://graphql.bitquery.io/ide) (to query data from blockchains)
-https://graphql.bitquery.io/ide
 
 - [Flipside Crypto](https://app.flipsidecrypto.com) (to query data from blockchains)
-https://app.flipsidecrypto.com
 
 - [GraphQL](https://medium.com/coinmonks/get-uniswap-data-using-the-graph-79d0c6f7b9f2) (to extract data from Uniswap)
-https://medium.com/coinmonks/get-uniswap-data-using-the-graph-79d0c6f7b9f2
 
 ## UI Design 
 
@@ -68,8 +65,7 @@ https://observablehq.com/@d3/gallery
 <ul>
   <li>Visualizations for the first three tabs</li>
       <ul>
-        <li>Timeline (for slides 2-6) 
-https://observablehq.com/@mbostock/the-impact-of-vaccines</li>
+        <li>[Timeline (for slides 2-6)](https://observablehq.com/@mbostock/the-impact-of-vaccines)</li>
         <li>Calendar (for slides 2-6)
 https://observablehq.com/@d3/calendar</li>
       </ul> 
