@@ -78,7 +78,7 @@ After the `Show Swap Fees` button is clicked, the app extracts data from a datab
 8. Sample source code for implementing this visualization can be found as [Timeline visualization](https://observablehq.com/@tezzutezzu/world-history-timeline), under [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
 ![](./figures/SwapGasFees_Design_07.png)
 
-## Screen 8: Bubble Chart Visualization 
+## Screen 8: Bubble Chart  
 1. The next visualization under the `Charts` tab is the bubble chart, which displays the total value locked (TVL) in top pools and the ratio of weekly volume to TVL.
 2. Each circle represents a pool in the top pools list and the size of each circle denotes the total value locked (TVL) in that pool.
 3. Color of each circle shows the ratio (Weekly Volume)/TVL. This is a measure of _"turnover"_ of the pool. Higher values (darker colors) suggest that the pool is actively used, whereas light colors suggest that the pool is not actively used.
@@ -86,12 +86,20 @@ After the `Show Swap Fees` button is clicked, the app extracts data from a datab
 5. Sample source code for implementing this visualization can be found as [Bubble chart](https://observablehq.com/@d3/bubble-chart), under [ObservableHQ Gallery](https://observablehq.com/@d3/gallery). The JavaScript visualization library used is [D3.js](https://d3js.org).
 ![](./figures/SwapGasFees_Design_08_new.png)
 
-## Screen 9: Arc Diagram Visualization 
-
+## Screen 9: Stacked Area Chart 
+The next visualization under the `Charts` tab is the stacked area chart, which displays the total value locked (TVL) in top pools over time, as well as the total TVL for these pools. This chart is particularly beneficial to see thre trends in the liquidity for a particular pool or for Uniswap pools on the aggregate.
 ![](./figures/SwapGasFees_Design_09.png)
 
-## Screen 10: Animated Scatter 
-
+## Screen 10: Animated Scatter Plot
+1. The next visualization is an animated scatter plot, where the changes in time are reflected in the time flow of the animation.
+2. The animated scatter plot was developed and popularized by the legendary information visualization pioneer, [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling), especially through his [TED Talks](https://www.gapminder.org/videos/). 
+3. Implemented firstly in the [Trendalyzer software](https://en.wikipedia.org/wiki/Trendalyzer) by the GapMinder Foundation, animated scatter plot has become a popular tool for displaying changes of discrete entities over time, with respect to four or more dimensions (plus time).
+4. The four dimensions of an attribute are reflected on the x axis, y axis, size of the circles (glyphs), and the color of the circles. Time is the fifth dimension.
+5. In the design developed specifically for Uniswap, each swap pair is an entity, represented as a circle. 
+6. x axis denotes the TVL and the y axis denotes volume. 
+7. The TVL/Volume ratio, which is a measure of the "turnover" of the pair, is chosen to be denoted by the size of the circle. 
+8. Finally, color is used to denote the particular swap pair. (The visualization presented below is only representative, but not exactly reflective).
+9. When the scatter plot is animated over time, the circles move, expand and contract, shift regions as groups on the two-dimensional plane, and do many other fascinating things.
 ![](./figures/SwapGasFees_Design_10.png)
 
 ## Screen 11: Chord Diagram 
