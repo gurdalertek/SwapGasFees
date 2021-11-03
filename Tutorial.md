@@ -80,7 +80,7 @@ After the `Show Swap Fees` button is clicked, the app extracts data from a datab
 
 ## Screen 8: Bubble Chart Visualization 
 
-![](./figures/SwapGasFees_Design_08.png)
+![](./figures/SwapGasFees_Design_08_new.png)
 
 ## Screen 9: Arc Diagram Visualization 
 
