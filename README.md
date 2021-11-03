@@ -65,30 +65,23 @@ https://observablehq.com/@d3/gallery
 <ul>
   <li>Visualizations for the <b>first three tabs</b></li>
       <ul>
-        <li><a href="https://observablehq.com/@mbostock/the-impact-of-vaccines" target="_blank">Timeline (for slides 2-6)</a></li>
-        <li><a href="https://observablehq.com/@d3/calendars" target="_blank">Calendar (for slides 2-6)</a></li>
+        <li><a href="https://observablehq.com/@mbostock/the-impact-of-vaccines" target="_blank">Timeline</a> (for slides 2-6)</li>
+        <li><a href="https://observablehq.com/@d3/calendars" target="_blank">Calendar</a> (for slides 2-6)</li>
       </ul> 
   <li>Visualizations for the <b>Charts tab</b></li>
       <ul>
-        <li><a href="https://observablehq.com/@tezzutezzu/world-history-timeline" target="_blank">Timeline (for slide 7)</a> (to see which are the cheapest hours or the day/week for each swap pair, where pairs are the rows, color is the gas fee)</li>
-        <li><a href="https://observablehq.com/@d3/bubble-chart" target="_blank">Bubble chart (for slide 8)</a> (showing volumes of all pairs, or coins in pools, size is volume, color can be volume/liquidity, red color tones if above median)</li>
-        <li><a href="https://observablehq.com/@d3/arc-diagram" target="_blank">Arc diagram (for slide 9)</a> (to see the pairs in the pools, color shows the main coin, such as ETH, USDT, USDC, DAI)</li>
-        <li><a href="https://observablehq.com/@mbostock/the-wealth-health-of-nations" target="_blank">Animated scatter plot (for slide 10)</a> (to see changes in multiple dimensions, as an animation)</li>
-        <li><a href="https://observablehq.com/@d3/chord-diagram" target="_blank">Chord diagram (for slide 11)</a> (to see volume & liquidity changes in pools, and in coins)</li>
+        <li><a href="https://observablehq.com/@tezzutezzu/world-history-timeline" target="_blank">Timeline</a> (for slide 7) (to see which are the cheapest hours or the day/week for each swap pair, where pairs are the rows, color is the gas fee)</li>
+        <li><a href="https://observablehq.com/@d3/bubble-chart" target="_blank">Bubble chart</a> (for slide 8) (showing volumes of all pairs, or coins in pools, size is volume, color can be volume/liquidity, red color tones if above median)</li>
+        <li><a href="https://observablehq.com/@d3/arc-diagram" target="_blank">Arc diagram</a> (for slide 9) (to see the pairs in the pools, color shows the main coin, such as ETH, USDT, USDC, DAI)</li>
+        <li><a href="https://observablehq.com/@mbostock/the-wealth-health-of-nations" target="_blank">Animated scatter plot</a> (for slide 10) (to see changes in multiple dimensions, as an animation)</li>
+        <li><a href="https://observablehq.com/@d3/chord-diagram" target="_blank">Chord diagram</a> (for slide 11) (to see volume & liquidity changes in pools, and in coins)</li>
       </ul> 
   <li><b>Other</b> possible visualizations under <b>Charts</b></li>
       <ul>
-        <li>Realtime Horizon Chart (scrolling data, where time is x axis, pair is y axis, and color is the gas fee)
-https://observablehq.com/@d3/realtime-horizon-chart</li>
-        <li>Treemap (showing volumes of all pairs)
-https://observablehq.com/@d3/treemap</li>
-        <li>Treemap (showing volumes of all pairs)
-https://observablehq.com/@d3/treemap</li>
-          <li>Stacked Area Chart (to see changes in volume and liquidity, color is pair)
-https://observablehq.com/@d3/streamgraph</li>
-        <li>Sankey Diagram (changes in volume of pairs, color shows pair)
-https://observablehq.com/@d3/sankey
-</li>
+        <li><a href="https://observablehq.com/@d3/realtime-horizon-chart" target="_blank">Realtime Horizon Chart</a> (scrolling data, where time is x axis, pair is y axis, and color is the gas fee)</li>
+        <li><a href="https://observablehq.com/@d3/treemap" target="_blank">Treemap</a> (showing volumes of all pairs)</li>
+        <li><a href="https://observablehq.com/@d3/streamgraph" target="_blank">Stacked Area Chart</a> (to see changes in volume and liquidity, color is pair)</li>
+        <li><a href="https://observablehq.com/@d3/sankey" target="_blank">Sankey Diagram</a> (changes in volume of pairs, color shows pair)</li>
   </ul> 
 </ul> 
 
