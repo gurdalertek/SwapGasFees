@@ -16,57 +16,54 @@ This tutorial descibes the working of the proposed SwapGasFees app, **an analyti
 
 The proposed SwapGasFees app is not implemented during the period of [UniCode Competition 2021](https://unicode.ethglobal.com/), due to lack of time and difficulties in finding team members. Yet, it outlines a blue print of how such a system can be implemented over an extended time period. In other words, the design provides a template, through which such a dashboard can be coded.
 
+The following sections describe 
+
 ## **Slide 1:** Opening Screen, `Swap Fee`Tab, and Options
 
+![](./figures/SwapGasFees_Design_01.png)
 
 ## **Slide 2:** Selecting a Swap Pair and the Amount
 
+![](./figures/SwapGasFees_Design_02.png)
 
-## **Slide 3:** Visualizing Swap Fees for the Selected Pair
+## **Slide 3:** (Interface 1) Visualizing Swap Fees for the Selected Pair
 
+![](./figures/SwapGasFees_Design_03.png)
 
 ## **Slide 4:** Selecting a Swap Pair from Top `Pools` from Under `Pools` Tab
 
+![](./figures/SwapGasFees_Design_04.png)
 
 ## **Slide 5:** Selecting a Swap Pair with Default Amount of 1 ETH
 
+![](./figures/SwapGasFees_Design_05.png)
 
 ## **Slide 6:** Visualizing Swap Fees for the Selected Top Pair
 
+![](./figures/SwapGasFees_Design_06.png)
 
-## **Slide 7:** Timeline Visualization under `Chart` Tab
+## **Slide 7: (Interface 2) ** Timeline Visualization under `Chart` Tab
 
+![](./figures/SwapGasFees_Design_07.png)
 
 ## **Slide 8:** Bubble Chart Visualization 
 
+![](./figures/SwapGasFees_Design_08.png)
 
 ## **Slide 9:** Arc Diagram Visualization 
 
+![](./figures/SwapGasFees_Design_09.png)
 
 ## **Slide 10:** Animated Scatter 
 
+![](./figures/SwapGasFees_Design_10.png)
 
 ## **Slide 11:** Chord Diagram 
 
+![](./figures/SwapGasFees_Design_11.png)
 
-Swap Gas Fees
 
 
-## **Interface 1:** Swap Gas Fees
-![](./figures/SwapGasFees_Design_03.png)
-<ul>
-  <li>...</li>
-  <li>...</li>
-  <li>...</li>
-</ul> 
-
-## **Interface 2:** Uniswap Analytics
-![](./figures/SwapGasFees_Design_07.png)
-<ul>
-  <li>...</li>
-  <li>...</li>
-  <li>...</li>
-</ul> 
 
 ## Visualizations
 
