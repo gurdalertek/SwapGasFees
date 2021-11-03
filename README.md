@@ -2,7 +2,9 @@
 
 **Gurdal Ertek**
 
-This project proposes design of an analytics dashboard to interactively and dynamically display swap fees and other analytical charts.
+This project proposes design of an analytics dashboard to interactively and dynamically display swap fees on [Uniswap](https://uniswap.org) and other analytics charts. 
+
+The proposed SwapGasFees app is not implemented during the period of [UniCode Competition 2021](https://unicode.ethglobal.com/), due to lack of time and difficulties in finding team members. Yet, it outlines a blue print of how such a system can be implemented over an extended time period.
 
 ## Uniswap and Swap Fees
 
