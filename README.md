@@ -4,6 +4,8 @@
 
 _Member of [BlockBlockData](https://blockblockdata.com) Team; Associate Professor of Business Analytics, UAE University, Abu Dhabi, UAE_
 
+<hline>
+  
 This project proposes design of **an analytics dashboard to** interactively and dynamically **display swap gas fees** (swap fees) on [Uniswap](https://uniswap.org). The dashboard also displays other charts that give analytical insights into the Uniswap ecosystem. 
 
 The proposed SwapGasFees app is not implemented during the period of [UniCode Competition 2021](https://unicode.ethglobal.com/), due to lack of time and difficulties in finding team members. Yet, it outlines a blue print of how such a system can be implemented over an extended time period. In other words, the design provides a template, through which such a dashboard can be coded.
