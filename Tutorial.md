@@ -22,6 +22,8 @@ This document contains the complete tutorial in a single document. You can read 
 
 [Screen 1](tutorials/Screen01.md) | [Screen 2](tutorials/Screen02.md) | [Screen 3](tutorials/Screen03.md) | [Screen 4](tutorials/Screen04.md) | [Screen 5](tutorials/Screen05.md) | [Screen 6](tutorials/Screen06.md) | [Screen 7](tutorials/Screen07.md) | [Screen 8](tutorials/Screen08.md) | [Screen 9](tutorials/Screen09.md) | [Screen 10](tutorials/Screen10.md) | [Screen 11](tutorials/Screen11.md) 
 
+- The full UI design can be downloaded as a pdf file from [here](./figures/SwapGasFees_Design.pdf).
+
 ## Screen 1: Opening Screen, `Swap Fee` Tab, and Options
 1. The first opening screen of the app is the `Swap Fee` Tab, with the tabs, swap pair selection on the left, and `Options` button at the left bottom. 
 2. The simple design orients the user to the interface, avoiding any chance of overwhelming. 
