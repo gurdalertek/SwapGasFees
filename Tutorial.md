@@ -118,6 +118,8 @@ After the `Show Swap Fees` button is clicked, the app extracts data from a datab
 4. Sample source code for implementing this visualization can be found as ["Chord Diagram"](https://observablehq.com/@d3/chord-diagram).
 ![](./figures/SwapGasFees_Design_11.png)
 
+- The full UI design can be downloaded as a pdf file from [here](./figures/SwapGasFees_Design.pdf).
+
 ## Author
 
 <table>
