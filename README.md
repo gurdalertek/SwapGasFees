@@ -141,3 +141,6 @@ As mentioned earlier, there exist websites/apps that report/visualize the Ethere
 </table>
 
 ## [SwapGasFees Tutorial](Tutorial.md)
+
+- This detailed [tutorial](Tutorial.md) describes the working of the designed app, explaining step by step, the different screens of the app.
+- The full UI design can be downloaded as a pdf file from [here](./figures/SwapGasFees_Design.pdf).
