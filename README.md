@@ -16,7 +16,7 @@ This project proposes design of **an analytics dashboard to** interactively and 
 
 The proposed SwapGasFees app is not implemented during the period of [UniCode Competition 2021](https://unicode.ethglobal.com/), due to lack of time and difficulties in finding team members. Yet, it outlines a blue print of how such a system can be implemented over an extended time period. In other words, the design provides a template, through which such a dashboard can be coded.
 
-- This detailed [tutorial](Tutorial.md) describes the working of the designed app, explaining step by step, the different screens of the app.
+- A separate detailed [tutorial](Tutorial.md) describes the working of the designed app, explaining step by step, the different screens of the app.
 - The full UI design can be downloaded as a pdf file from [here](./figures/SwapGasFees_Design.pdf).
 
 ## Uniswap and Swap Fees
@@ -51,7 +51,7 @@ The following resources/libraries can be used for data extraction from Uniswap:
 ## UI Design 
 
 This section describes the basic design of the user interface (UI) for the proposed SwapGasFees app. 
-- This detailed [tutorial](Tutorial.md) describes the working of the designed app, explaining step by step, the different screens of the app. 
+- A separate detailed [tutorial](Tutorial.md) describes the working of the designed app, explaining step by step, the different screens of the app. 
 - The full UI design can be downloaded as a pdf file from [here](./figures/SwapGasFees_Design.pdf).
 
 There are two main screens/interfaces in the app:
@@ -142,5 +142,5 @@ As mentioned earlier, there exist websites/apps that report/visualize the Ethere
 
 ## [SwapGasFees Tutorial](Tutorial.md)
 
-- This detailed [tutorial](Tutorial.md) describes the working of the designed app, explaining step by step, the different screens of the app.
+- A separate detailed [tutorial](Tutorial.md) describes the working of the designed app, explaining step by step, the different screens of the app.
 - The full UI design can be downloaded as a pdf file from [here](./figures/SwapGasFees_Design.pdf).
