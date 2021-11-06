@@ -144,3 +144,11 @@ As mentioned earlier, there exist websites/apps that report/visualize the Ethere
 
 - A separate detailed [tutorial](Tutorial.md) describes the working of the designed app, explaining step by step, the different screens of the app.
 - The full UI design can be downloaded as a pdf file from [here](./figures/SwapGasFees_Design.pdf).
+
+## Project Sources and Presentation:
+- [EthGlobal Showcase Submission](https://showcase.ethglobal.co/unicode/swapgasfees) 
+- [GitHub Page and Main Article](https://github.com/gurdalertek/swapgasfees)
+- [Tutorial Document on GitHub](https://github.com/gurdalertek/swapgasfees)
+- [Full UI Design as pdf](https://github.com/gurdalertek/swapgasfees/blob/main/figures/SwapGasFees_Design.pdf)
+- [Slide Deck](https://app.decktopus.com/share/eSNbstz3e/s/1) and the 
+- [YouTube Video](https://youtu.be/uRBvmlFBMdY) for the project.
