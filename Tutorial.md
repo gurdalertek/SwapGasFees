@@ -131,3 +131,11 @@ After the `Show Swap Fees` button is clicked, the app extracts data from a datab
 </table>
 
 ## [SwapGasFees Main Article](README.md)
+
+## Project Sources and Presentation:
+- [EthGlobal Showcase Submission](https://showcase.ethglobal.co/unicode/swapgasfees) 
+- [GitHub Page and Main Article](https://github.com/gurdalertek/swapgasfees)
+- [Tutorial Document on GitHub](https://github.com/gurdalertek/swapgasfees/blob/main/Tutorial.md)
+- [Full UI Design as pdf](https://github.com/gurdalertek/swapgasfees/blob/main/figures/SwapGasFees_Design.pdf)
+- [Slide Deck](https://app.decktopus.com/share/eSNbstz3e/s/1) and the 
+- [YouTube Video](https://youtu.be/uRBvmlFBMdY) for the project.
