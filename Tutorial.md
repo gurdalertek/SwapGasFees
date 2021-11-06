@@ -108,7 +108,8 @@ After the `Show Swap Fees` button is clicked, the app extracts data from a datab
 7. The (Volume/TVL) ratio, which is a measure of the _"turnover"_ of the pair on Uniswap, is chosen to be denoted by the size of the circle. Low values of this ratio can identify pairs that have too much liquidity compared to volume.
 8. Finally, color is used to denote the particular swap pair. (The visualization presented below is only representative, but not exactly reflective).
 9. When the scatter plot is animated over time, the circles move, expand and contract, shift regions as groups on the two-dimensional plane, and do many other fascinating things.
-10. Sample source code for implementing this visualization can be found as ["The Wealth & Health of Nations"](https://observablehq.com/@mbostock/the-wealth-health-of-nations).
+10. A sample animation can be found in [this video](https://youtu.be/j2gRlIMnH7Y).
+11. Sample source code for implementing this visualization can be found as ["The Wealth & Health of Nations"](https://observablehq.com/@mbostock/the-wealth-health-of-nations).
 ![](./figures/SwapGasFees_Design_10.png)
 
 ## Screen 11: Chord Diagram 
